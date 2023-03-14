@@ -38,6 +38,7 @@ My Github Stats
 <br>
 Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rqpwjrf2llmeuvvhoytdw6safe&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31rqpwjrf2llmeuvvhoytdw6safe)
+[![Spotify](https://novatorem-swart-iota.vercel.app/api/spotify)]([https://open.spotify.com/user/31rqpwjrf2llmeuvvhoytdw6safe])
+
 
 </details>
