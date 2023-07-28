@@ -23,7 +23,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas with tech enthusiasts. 
 
-* 💻 Currently working on Deep Learning Models for Computer Vision, CUDA programming, MLOps.
+* 💻 Currently working on Deep Learning Models for Computer Vision, CUDA programming and MLOps.
 
 
 
