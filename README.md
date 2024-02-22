@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/prajolshrestha">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=550&height=120&lines=Prajol+Shrestha;Master's+Student+%7C+Software+Engineer;Multimodel+Signal+Processing;Image+and+Video+Processing+%7C+Computer+Vision+%7C+Medical+Imaging;AI+%7C+Deep+Learning+%7C+Generative AI+%7C+Machine Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=550&height=120&lines=Prajol+Shrestha;Master's+Student+%7C+Software+Engineer;Multimodel+Signal+Processing;Image+and+Video+Processing+%7C+Computer+Vision+%7C+Medical+Imaging;AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Generative AI" alt="Typing SVG" />
 </a>
 
 <br>
@@ -23,7 +23,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas with tech enthusiasts. 
 
-* 💻 Currently working on MLOps, LLMOps, C++ (Debugging), CUDA (basics), Rust (basics),  and more ...
+* 💻 Currently working on LLMOps, Python (Testing), C++ (Debugging), CUDA (basics), Rust (basics), and more ...
 
 
 
