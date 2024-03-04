@@ -23,7 +23,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas with tech enthusiasts. 
 
-* 💻 Currently working on LLMOps, Python (Testing), C++ (Debugging), CUDA (basics), Rust (basics), and more ...
+* 💻 Currently working on LLMOps, Python (Testing), C++ (Debugging), BASH SHELL Scripting (basics), CUDA (basics), Rust (basics), and more ...
 
 
 
