@@ -21,9 +21,7 @@
 
 * 📖 Pursuing Master's in Information and Communication Technology @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.iuk.studium.fau.eu/). 
 
-* 💻 My research connects Perception, Machine Learning, Consciousness, Autonomous Agent, and Robotics.
-
-<---* 💡 Open to collaborating on projects and innovative ideas with tech enthusiasts. --->
+* 💡 My research connects Perception, Machine Learning, Consciousness, Autonomous Agent, and Robotics.
 
 * 💻 Currently working on Computer Vision Problems, MLLMOps, Python (Testing), C++ (Debugging), CUDA (basics), Rust (basics), and more ...
 
