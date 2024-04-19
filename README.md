@@ -14,8 +14,14 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://pypi.org/user/prajolshrestha/">
-    <img src="https://img.shields.io/badge/PyPi-prajolshrestha-blue?style=flat-square&logo=pypi&logoColor=white">
+    <img src="https://img.shields.io/badge/PyPi-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>    
+<a href="https://prajolshrestha.github.io/">
+    <img src="https://img.shields.io/badge/Website-green?style=flat-square&logo=pypi&logoColor=white">
+</a>   
+<a href="https://huggingface.co/prajolshrestha/">
+    <img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat-square&logo=pypi&logoColor=white">
+</a>   
 </br>
 </p>
 
