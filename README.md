@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/prajolshrestha">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=550&height=120&lines=Prajol+Shrestha;Master's+Student+%7C+Software+Engineer;Multimodel+Signal+Processing;Image+and+Video+Processing+%7C+Computer+Vision+%7C+Medical+Imaging;AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Generative AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=550&height=120&lines=Prajol+Shrestha;Research+Engineer;Multimodel+Signal+Processing;Image+and+Video+Processing+%7C+Computer+Vision+%7C+Medical+Imaging;AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Generative AI" alt="Typing SVG" />
 </a>
 
 <br>
@@ -21,7 +21,7 @@
 
 * 📖 Pursuing Master's in Information and Communication Technology @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.iuk.studium.fau.eu/). 
 
-* 💡 My research connects Perception, Machine Learning, Consciousness, and Robotics.
+* 💡 My research connects Perception, Consciousness, Machine Learning, and Robotics.
 
 * 💻 Currently working on Computer Vision Problems, MLLMOps, Python (Testing), C++ (Debugging), CUDA (basics), Rust (basics), and more ...
 
