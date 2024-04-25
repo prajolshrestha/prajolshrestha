@@ -29,7 +29,9 @@
 
 * 💡 My research connects Perception, Signal Processing, and Autonomous Intelligent System.
 
-* 💻 Currently working on Computer Vision Problems, MLLMOps, Python (Testing), C++ (Debugging), CUDA (basics), Rust (basics), and more ...
+* 📖 Python 🐍| C++ | Matlab | CUDA | Rust
+
+* 💻 Currently working on Perception Problems and MLLMOps.
 
 
 
