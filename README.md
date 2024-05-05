@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/prajolshrestha">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=550&height=120&lines=PRAJOL+SHRESTHA+%7C+Research+Engineer;Computer+Vision+%7C+Medical+Imaging;Multimodel+Signal+Processing;Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=550&height=120&lines=PRAJOL+SHRESTHA+%7C+Research+Engineer;Computer+Vision+%7C+Medical+Image+Processing;Multimodel+Signal+Processing;Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 
 <br>
