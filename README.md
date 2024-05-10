@@ -22,6 +22,7 @@
 <a href="https://huggingface.co/prajolshrestha/">
     <img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat-square&logo=pypi&logoColor=white">
 </a>   
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajolshrestha&theme=default" alt="prajolshrestha" /></a> 
 </br>
 </p>
 
