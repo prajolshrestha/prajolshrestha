@@ -27,9 +27,9 @@
 </br>
 </p>
 
-* 📖 Pursuing Master's in [Information and Communication Technology with specialization on Media Processing Systems](https://www.iuk.studium.fau.de/studierende/studienablauf-master/) @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.iuk.studium.fau.eu/). 
+* 📖 Pursuing Master's in [ICT with specialization on Media Processing Systems](https://www.iuk.studium.fau.de/studierende/studienablauf-master/) @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.iuk.studium.fau.eu/). 
 
-* 💡 My research connects Perception, Signal Processing, and Autonomous Intelligent System.
+* 💡 My research connects Perception, Signal Processing, Cognitive Neuroscience, and Machine Learning.
 
 * 📖 Python 🐍| C++ | Matlab | CUDA | Rust
 
