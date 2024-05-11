@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/prajolshrestha">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=550&height=120&lines=PRAJOL+SHRESTHA+%7C+Research+Engineer;Computer+Vision+%7C+Medical+Image+Processing;Multimodel+Signal+Processing+%7C+Image+and+Video+Compression;Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=550&height=120&lines=PRAJOL+SHRESTHA+%7C+Research+Engineer;Computer+Vision+%7C+Medical+Image+Processing;Multimodel+Signal+Processing+%7C+Image+and+Video+Compression;Machine+Learning+%7C+Deep+Learning+%7C+Cognitive+Neuroscience" alt="Typing SVG" />
 </a>
 
 <br>
@@ -29,7 +29,7 @@
 
 * 📖 Pursuing Master's in [ICT with specialization on Media Processing Systems](https://www.iuk.studium.fau.de/studierende/studienablauf-master/) @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.iuk.studium.fau.eu/). 
 
-* 💡 My research connects Perception, Signal Processing, Cognitive Neuroscience, and Machine Learning.
+* 💡 My research connects Computer Vision, Signal Processing, Cognitive Neuroscience, and Machine Learning.
 
 * 📖 Python 🐍| C++ | Matlab | CUDA | Rust
 
