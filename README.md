@@ -33,7 +33,7 @@
 
 * 📖 Python 🐍| C++ | Matlab | CUDA | Rust
 
-* 💻 Currently working on Visual Perception Problems and MLLMOps.
+* 💻 Currently working on Multimodal Perception  and Sensor Fusion.
 
 
 
