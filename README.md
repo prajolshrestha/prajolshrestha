@@ -26,6 +26,7 @@
 
 </br>
 </p>
+
 * 📖 Currently pursuing a PhD in Computer Science, specializing in swarm robotics, with a particular focus on autonomous behavior, multi-agent planning, and control systems.
 
 * 📖 Master's degree in [ICT with specialization in Media Processing Systems](https://www.iuk.studium.fau.de/studierende/studienablauf-master/) @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.iuk.studium.fau.eu/). 
