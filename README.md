@@ -31,11 +31,11 @@
 
 * 📖 Master's degree in [ICT with specialization in Media Processing Systems](https://www.iuk.studium.fau.de/studierende/studienablauf-master/) @ [Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)](https://www.iuk.studium.fau.eu/). 
 
-* 💡 My research connects Artificial Intelligence (ML/DL/RL), 2D/3D Computer Vision, Signal Processing, NLP, Cognitive Neuroscience, and Robotics, with a primary focus on advancing perception and cognition.
+* 💡 My research connects Artificial Intelligence (ML/DL/RL), Robotics, 2D/3D Computer Vision, Signal Processing, NLP, and Cognitive Neuroscience, with a primary focus on advancing perception, planning, and control.
 
 * 📖 Python 🐍| C++ | Matlab | CUDA | ROS2(learning)
 
-* 💻 Currently working on AI, Robotics, and Computer Vision.
+* 💻 Currently working on the intersection of AI, Robotics, and Computer Vision.
 
 
 
