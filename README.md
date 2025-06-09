@@ -35,7 +35,7 @@
 
 * 📖 Python 🐍| C++ | Matlab | CUDA | ROS2(learning)
 
-* 💻 Currently working on the intersection of AI, Robotics, and Computer Vision.
+* 💻 Currently working on Learning-based Model Predictive Control.
 
 
 
