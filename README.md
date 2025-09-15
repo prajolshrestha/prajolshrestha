@@ -27,7 +27,7 @@
 </br>
 </p>
 
-* 📖 Currently pursuing a PhD in Computer Science @ [Pattern Recognition Lab, FAU](https://lme.tf.fau.de/), specializing in swarm robotics, with a particular focus on autonomous behavior, multi-agent planning, and control systems.
+* 📖 Currently pursuing a PhD in Computer Science (AI and Robotics) @ [Pattern Recognition Lab, FAU](https://lme.tf.fau.de/).
 
 * 📖 Master's degree in [Information & Communication Technology (specialization: Media Processing Systems)](https://www.iuk.studium.fau.de/studierende/studienablauf-master/) @ [Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)](https://www.iuk.studium.fau.eu/). 
 
